@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ryotoru.github.io/sitemap.xml
