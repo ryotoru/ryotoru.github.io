@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Crypto Notes # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: Notes on lattice-based cryptography
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
