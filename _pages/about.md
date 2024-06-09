@@ -18,9 +18,10 @@ profile:
 # social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to CryptiCosmos! I am Himanshu, currently a research assistant in the Department of Computer Science at Ashoka University, under the guidance of Dr. Debayan Gupta. My work focuses mainly on understanding the fundamentals of  lattice-based cryptography, traceability in end-to-end encrypted messaging. I also serve as the teaching fellow for both Dr. Debayan Gupta and Dr. Subhashis Banerjee.
+Welcome to CryptiCosmos! I am Himanshu, a research assistant in the Department of Computer Science at Ashoka University, working under Dr. Debayan Gupta. My research focuses on lattice-based cryptography and enhancing the security of end-to-end encrypted messaging.
 
-My primary area of interest is lattice-based post-quantum cryptography, enhancing the security properties of end-to-end encryption and improving Internet privacy and data protection policies. I am particularly driven to address various challenges associated with E2EE platforms, such as contact discovery, anonymous registration, and originator tracing.  My aim is to contribute to making Internet policies and data protection practices more accessible to the wider public.
+My primary interests include lattice-based post-quantum cryptography, improving Internet privacy, and data protection policies. I am particularly driven to address challenges in E2EE platforms, such as contact discovery and originator tracing. Additionally, I have a fascination for computational topology and its applications in cryptography and neuroscience, and I enjoy tinkering with hardware to understand and rebuild it.
 
-Additionally, I have a strong fascination for computational topology and its potential applications across diverse domains such as cryptography and computational neuroscience. I also like to tinker with hardwares to understand their mechanisms, try to break them down and rebuild them.
+This website is mainly for sharing my notes and insights on the topics I am currently working on.
+
 
