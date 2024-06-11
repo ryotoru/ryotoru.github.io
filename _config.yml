@@ -242,7 +242,7 @@ exclude:
   - _pages/repositories.md
   - _pages/dropdown.md
   - _pages/cv.md
-  -  ["_posts"]
+  - "_posts/*"
 keep_files:
   - CNAME
   - .nojekyll
