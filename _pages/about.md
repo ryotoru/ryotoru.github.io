@@ -13,15 +13,26 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-# news: true # includes a list of news items
+projects : true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to CryptiCosmos! I am Himanshu, a research assistant in the Department of Computer Science at Ashoka University, working under Dr. Debayan Gupta. My research focuses on lattice-based cryptography and enhancing the security of end-to-end encrypted messaging.
+My name is X, and I am currently looking for funded research positions in cryptography. 
 
-My primary interests include lattice-based post-quantum cryptography, improving Internet privacy, and data protection policies. I am particularly driven to address challenges in E2EE platforms, such as contact discovery and originator tracing. Additionally, I have a fascination for computational topology and its applications in cryptography and neuroscience.
+**This is my personal journal.** For the past year, I have been studying the properties of lattices and their role in post-quantum cryptography as a research assistant at [Ashoka University](https://www.ashoka.edu.in). What began as a curious Google search to understand end-to-end encryption has now led me here.
 
-This website is mainly for sharing my notes and insights on the topics I am currently working on.
+My main area of interest is the role of lattices in privacy-focused domains such as Lattice-Based Zero-Knowledge Proofs [(link)](https://eprint.iacr.org/2022/284) and the similarities between Fully Homomorphic Encryption (FHE) and Multi-Party Computation [(MPC)] (https://eprint.iacr.org/2023/981). Although I am also keen on exploring the complexity aspects of cryptography, may the crypto gods bless us!
 
+I enjoy tinkering with any piece of tech, prying open parts to see how they work. In my free time, you might find me hanging out with street dogs, browsing absurd Reddit pages, or scratching my head over how I lost another chess match from a winning position (yes, it’s a talent few possess).
 
+Currently, my time is divided into the following activities:
+
+1. **Job Hunting**
+2. **Reading these papers:**
+   - [TFHE Public-Key Encryption Revisited](https://eprint.iacr.org/2023/603)
+   - [Classical Hardness of Learning with Errors]()http://arxiv.org/pdf/1306.0281
+   - [Fundamentals of Fully Homomorphic Encryption – A Survey](https://eccc.weizmann.ac.il/report/2018/125/)
+3. **Improving my Rust skills**
+
+If your interests align with mine and you are looking for an inquisitive, hardworking person to work with, feel free to reach out to me at [your email].
