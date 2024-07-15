@@ -2,7 +2,7 @@
 layout: page
 title: Lattice-Visualizer
 description: Small tool to generate lattice points. 
-img: assets/img/lat.jpg
+img: assets/img/latt.jpg
 importance: 1
 category: 
 related_publications: false
