@@ -1,16 +1,14 @@
 ---
 layout: page
 title: Lattice-Visualizer
-description: Small tool to generate lattice points. 
+description: Small tool to generate lattice points.
 img: assets/img/latt.jpg
 importance: 1
-category: 
+category:
 related_publications: false
 ---
 
-Made a tool to generate lattice points by putting in dimensions and sum limit. [Check it out here!](ryotoru.github.io/lattice-visualizer)
-
-    ---
+Made a tool to generate lattice points by putting in dimensions and sum limit. [Check it out here!](https://ryotoru.github.io/lattice-visualizer)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -67,6 +65,6 @@ Here's the code for the last row of images above:
     {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+---
 
 {% endraw %}
