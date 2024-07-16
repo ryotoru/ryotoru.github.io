@@ -171,8 +171,7 @@ disqus_shortname: al-folio # put your disqus shortname
     # rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
-# Collections
-# -----------------------------------------------------------------------------
+#Collections
 
 collections:
   news:
@@ -182,7 +181,7 @@ collections:
     permalink: /news/:path/
   projects:
     defaults:
-      layout: page
+      layout: p
     output: true
     permalink: /projects/:path/
 
@@ -195,6 +194,11 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+projects:
+    defaults:
+      layout: p
+    output: true
+    permalink: /projects/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -215,6 +219,7 @@ kramdown:
 
 # Includes & excludes
 include: ["_pages"]
+         ["_projects"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -237,6 +242,11 @@ exclude:
   - vendor
   - _pages/teaching.md
   - _pages/profiles.md
+  - _projects/2_project.md
+  - _projects/3_project.md
+  - _projects/4_project.md
+  - _projects/5_project.md
+  - _projects/6_project.md
   - _pages/about_einstein.md
   - _pages/publications.md
   - _pages/news.md

@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 Made a tool to generate lattice points by putting in dimensions and sum limit. [Check it out here!](https://ryotoru.github.io/lattice-visualizer)
-
+<!-->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -66,5 +66,5 @@ Here's the code for the last row of images above:
   </div>
 </div>
 ---
-
+-->
 {% endraw %}
