@@ -174,14 +174,15 @@ disqus_shortname: al-folio # put your disqus shortname
 #Collections
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
+  #news:
+    #defaults:
+      #layout: post
+    o#utput: true
+    p#ermalink: /news/:path/ 
+    
   projects:
     defaults:
-      layout: pages
+      layout: page
     output: true
     permalink: /projects/:path/
 

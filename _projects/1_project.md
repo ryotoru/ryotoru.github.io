@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 Made a tool to generate lattice points by putting in dimensions and sum limit. [Check it out here!](https://ryotoru.github.io/lattice-visualizer)
-<!-->
+<!--
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
