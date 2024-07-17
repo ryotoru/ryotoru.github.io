@@ -174,11 +174,11 @@ disqus_shortname: al-folio # put your disqus shortname
 #Collections
 
 collections:
-  # news:
-  #   defaults:
-  #     layout: post
-  #   output: true
-  #   permalink: /news/:path/
+  news:
+     defaults:
+       layout: post
+     output: true
+     permalink: /news/:path/
   
   projects:
     defaults:
@@ -219,7 +219,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_projects"]
+include: ["_pages", "_projects", _news"]
 
 exclude:
   - bin/
@@ -254,6 +254,8 @@ exclude:
   - _pages/repositories.md
   - _pages/dropdown.md
   - _pages/cv.md
+  - _news/announcement_2.md
+  - _news/announcement_3.md
   
 keep_files:
   - CNAME

@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Tools I mke once in a blue moon.
+description: Tools I make once in a blue moon.
 nav: true
 nav_order: 3
 display_categories: 

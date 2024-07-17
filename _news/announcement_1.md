@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Attended NIWC workshop on Lattice based cryptology. 
