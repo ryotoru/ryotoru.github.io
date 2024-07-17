@@ -250,7 +250,7 @@ exclude:
   - _projects/6_project.md
   - _pages/about_einstein.md
   - _pages/publications.md
-  - _pages/news.md
+  
   - _pages/repositories.md
   - _pages/dropdown.md
   - _pages/cv.md
