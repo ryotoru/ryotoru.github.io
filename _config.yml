@@ -219,7 +219,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_projects", _news"]
+include: ["_pages", "_projects", "_news"]
 
 exclude:
   - bin/
