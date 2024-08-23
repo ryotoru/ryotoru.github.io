@@ -186,10 +186,9 @@ collections:
     output: true
     permalink: /projects/:path/
  
-  
-  interesting-links:
+  interesting_links:
     output: true
-    permalink: /interesting-link/:path/
+    permalink: /interesting-links/:path/
 
 
 announcements:
@@ -225,7 +224,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_projects", "_news"]
+include: ["_pages", "_projects", "_news", "_interesting_links"]
 
 exclude:
   - bin/
