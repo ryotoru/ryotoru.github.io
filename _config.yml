@@ -187,9 +187,9 @@ collections:
     permalink: /projects/:path/
  
   
-  interesting-links:
+  interesting_links:
     output: true
-    permalink: /interesting-link/:path/
+    permalink: /interesting_links/:path/
 
 
 announcements:
