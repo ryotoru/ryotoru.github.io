@@ -18,7 +18,7 @@ projects : true # includes a list of news items
 # social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Himanshu, and I am currently a research assistant with Dr.(Pratyush Pranav)(https://www.pratyushpranav.org/) at Trivedi School for Biosciences.
+Hi! My name is Himanshu, and I am currently a research assistant with [Dr.Pratyush Pranav](https://www.pratyushpranav.org/) at [Trivedi School for Biosciences](https://www.ashoka.edu.in/trivedi-school-of-biosciences/).
 
 **This is my personal journal.** For the past year, I have been studying the properties of lattices and their role in post-quantum cryptography as a research assistant at [Ashoka University](https://www.ashoka.edu.in). What began as a simple Google search to understand end-to-end encryption has evolved into a passionate exploration of privacy-focused domains and cutting-edge cryptographic techniques.
 
@@ -27,6 +27,7 @@ My primary research interests lie in the role of lattices in privacy-focused dom
 Currently, I am also engaged in a project involving the cleaning and analysis of astronomical data from the Sloan Digital Sky Survey (SDSS).
 
 I also enjoy tinkering with any piece of tech, prying open parts to see how they work. This has led me to reverse engineer the head unit of a car from a major brand, as well as some smart home devices like Google Home. I have been part of projects that include firmware extraction, building a functional testbench for ECUs of automotive vehicles, designing an RF jamming device, and conducting an extensive literature review of intrusion detection systems.  I have also worked on originator tracing in end-to-end encrypted messaging platforms like WhatsApp, furthering my interest in enhancing privacy and security in digital communication. Additionally, I have been involved in policy-related projects aimed at enhancing the security of end-to-end encryption, and data protection, in line with the IT Ministry of India's guidelines. 
+
 In my leisure time, I enjoy immersing myself in manga and anime, browsing the latest sneaker releases, watching tech videos, or puzzling over a chess match lost from a winning position—because, yes, that’s a skill not many have mastered! I am also fascinated by cognitive sciences, particularly the brain’s ability to perceive and how a violence-induced environment affects memory.
 
 
