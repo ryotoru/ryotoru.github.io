@@ -3,7 +3,7 @@ layout: default
 title: Useful Research Links
 ---
 
-# Useful Research Links
+# Useful Links
 
 Here are some of the links I frequently use for my research:
 
@@ -12,4 +12,4 @@ Here are some of the links I frequently use for my research:
 - [Sloan Digital Sky Survey (SDSS) Data](https://www.sdss.org/)
 - [Cryptography and Privacy-Related Publications](https://eprint.iacr.org/)
 
-Feel free to explore these resources for more insights into cryptography.
+
