@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Interesting Links
+nav_order: 2
+nav: true
 permalink: /interesting-links/
 ---
 
