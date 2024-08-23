@@ -8,6 +8,6 @@ permalink: /interesting-links/
 
 This page contains a collection of links that I frequently reference for my research work.
 
-{% for link in site.research_links %}
+{% for link in site.interesting_links %}
 - [{{ link.title }}]({{ link.url }})
 {% endfor %}
