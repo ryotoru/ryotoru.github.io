@@ -13,6 +13,7 @@ Here are some of the links I frequently visit:
 - [Privacy and Scaling Explorations](https://mirror.xyz/privacy-scaling-explorations.eth)
 - [Programmable cryptography](https://0xparc.org/blog/programmable-cryptography-1)
 - [How Euler did it](http://eulerarchive.maa.org/hedi/)
+- [Astronomy pic of the day!](https://apod.nasa.gov/apod/astropix.html)
 
 
   There are few more which I will add as i remeber or visit them.
