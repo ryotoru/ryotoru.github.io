@@ -224,7 +224,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_projects", "_news", "_interesting_links"]
+include: ["_pages", "_projects", "_news"]
 
 exclude:
   - bin/
@@ -255,6 +255,7 @@ exclude:
   - _projects/6_project.md
   - _pages/about_einstein.md
   - _pages/publications.md
+  - _interesting_links
   
   - _pages/repositories.md
   - _pages/dropdown.md
