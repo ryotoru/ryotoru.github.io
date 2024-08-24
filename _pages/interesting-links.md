@@ -9,12 +9,6 @@ permalink: /interesting-links/
 
 This page contains a collection of links that I frequently visit (not necessarily for research).
 
-#  {% for link in site.interesting_links %}
-#  [{{ link.title }}]({{ link.url }})
-#  {% endfor %}
-
-
-
 - [How to read a (crypto) research paper](https://gotchas.salusa.dev/how_to_read.html)
 - [Hidden Heroes](https://hiddenheroes.netguru.com/)
 - [The Brain Blog](https://philosophyofbrains.com/)
