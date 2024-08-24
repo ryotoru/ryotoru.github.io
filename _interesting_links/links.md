@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Useful Links
+title: click it!
 ---
 
 
