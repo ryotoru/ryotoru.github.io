@@ -1,15 +1,18 @@
 ---
 layout: default
-title: Useful Research Links
+title: Useful Links
 ---
 
-# Useful Links
-
-Here are some of the links I frequently use for my research:
-
-- [Lattice-Based Zero-Knowledge Proofs](https://eprint.iacr.org/2022/284)
-- [Fully Homomorphic Encryption (FHE) Overview](https://eprint.iacr.org/2023/981)
-- [Sloan Digital Sky Survey (SDSS) Data](https://www.sdss.org/)
-- [Cryptography and Privacy-Related Publications](https://eprint.iacr.org/)
 
 
+Here are some of the links I frequently visit:
+
+- [How to read a (crypto) research paper](https://gotchas.salusa.dev/how_to_read.html)
+- [Hidden Heroes](https://hiddenheroes.netguru.com/)
+- [The Brain Blog](https://philosophyofbrains.com/)
+- [Privacy and Scaling Explorations](https://mirror.xyz/privacy-scaling-explorations.eth)
+- [Programmable cryptography](https://0xparc.org/blog/programmable-cryptography-1)
+- [How Euler did it](http://eulerarchive.maa.org/hedi/)
+
+
+  There are few more which I will add as i remeber or visit them.
