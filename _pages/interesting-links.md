@@ -8,7 +8,7 @@ permalink: /interesting-links/
 
 # Useful Links
 
-This page contains a collection of links that I frequently reference for my research work.
+This page contains a collection of links that I frequently visit (not necessarily for research).
 
 {% for link in site.interesting_links %}
 - [{{ link.title }}]({{ link.url }})
