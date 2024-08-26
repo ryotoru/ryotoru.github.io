@@ -16,6 +16,8 @@ This page contains a collection of links that I frequently visit (not necessaril
 - [Programmable cryptography](https://0xparc.org/blog/programmable-cryptography-1)
 - [How Euler did it](http://eulerarchive.maa.org/hedi/)
 - [Astronomy pic of the day!](https://apod.nasa.gov/apod/astropix.html)
+- [Ask Cryptography](https://askcryp.to)
+- [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)
 
 
   There are few more which I will add as i remember or visit them.
