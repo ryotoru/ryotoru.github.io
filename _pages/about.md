@@ -18,17 +18,16 @@ projects : true # includes a list of news items
 # social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Himanshu, and I am currently a research assistant with [Dr.Pratyush Pranav](https://www.pratyushpranav.org/) at [Trivedi School for Biosciences](https://www.ashoka.edu.in/trivedi-school-of-biosciences/). Currently, I am engaged in a project involving the cleaning and analysis of astronomical data from the Sloan Digital Sky Survey (SDSS).
+Hi! I’m Himanshu, a research assistant working with [Dr. Pratyush Pranav](https://www.pratyushpranav.org/) at the [Trivedi School for Biosciences](https://www.ashoka.edu.in/trivedi-school-of-biosciences/). My current research focuses on cleaning and analyzing astronomical data from the Sloan Digital Sky Survey (SDSS).
 
-**This is my personal journal.** For the past year, I have been studying the properties of lattices and their role in post-quantum cryptography as a research assistant at [Ashoka University](https://www.ashoka.edu.in). What began as a simple Google search to understand end-to-end encryption has evolved into a passionate exploration of privacy-focused domains and cutting-edge cryptographic techniques.
+**About Me:**
 
-My primary research interests lie in the role of lattices in privacy-focused domains, particularly in Lattice-Based Zero-Knowledge Proofs and the intersections between Fully Homomorphic Encryption (FHE) and Multi-Party Computation (MPC). I am also eager to further explore the complexity aspects of cryptography. You can find more about these fascinating topics in some recent publications I have been exploring: Lattice-Based Zero-Knowledge Proofs and MPC.
+Over the past year, I’ve developed a deep interest in cryptography, especially in the realm of privacy-focused technologies. As a research assistant under [Dr. Debayan Gupta](https://debayangupta.com/), I’ve been studying the role of lattices in post-quantum cryptography, with a focus on [Lattice-Based Zero-Knowledge Proofs](https://eprint.iacr.org/2022/284) and the exciting overlaps between [Fully Homomorphic Encryption (FHE) and Multi-Party Computation (MPC)](https://eprint.iacr.org/2023/981). These areas fascinate me because of their potential to enhance privacy and security in digital communication.
 
-I also enjoy tinkering with any piece of tech, prying open parts to see how they work. This has led me to reverse engineer the head unit of a car from a major brand, as well as some smart home devices like Google Home. I have been part of projects that include firmware extraction, building a functional testbench for ECUs of automotive vehicles, designing an RF jamming device, and conducting an extensive literature review of intrusion detection systems.  
+My curiosity extends beyond cryptography. I love to tinker with technology, which has led me to projects like reverse engineering car head units, designing RF jamming devices, and conducting security analysis for smart home devices. I've also been involved in projects aimed at enhancing the security of end-to-end encrypted messaging platforms like WhatsApp, aligning with the IT Ministry of India’s guidelines on data protection.
 
-I have also worked on originator tracing in end-to-end encrypted messaging platforms like WhatsApp, furthering my interest in enhancing privacy and security in digital communication. Additionally, I have been involved in policy-related projects aimed at enhancing the security of end-to-end encryption, and data protection, in line with the IT Ministry of India's guidelines. 
+When I’m not deep into research or tech projects, I enjoy reading manga, watching anime, and keeping up with the latest sneaker releases. I’m also passionate about cognitive sciences, particularly understanding how our brains perceive the world and how environments, especially those with violence, can affect memory.
 
-In my leisure time, I enjoy immersing myself in manga and anime, browsing the latest sneaker releases, watching tech videos, and highlights of any sports tournament. I am also fascinated by cognitive sciences, particularly the brain’s ability to perceive and how a violence-induced environment affects memory.
+If you’re interested in similar fields or looking for someone who enjoys diving into deep discussions about tech, cryptography, or cognitive science, feel free to reach out at [himaanshu216@gmail.com](mailto:himaanshu216@gmail.com). I’m always excited to connect with like-minded individuals!
 
 
-If our interests align and you are seeking an inquisitive, hardworking collaborator who loves bouncing off ideas and engaging in long discussions, I would love to hear from you, feel free to reach out to me at (himaanshu216@gmail.com).
