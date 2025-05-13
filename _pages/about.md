@@ -18,16 +18,31 @@ projects : true # includes a list of news items
 # social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Himanshu, a research assistant working with [Dr. Pratyush Pranav](https://www.pratyushpranav.org/) at the [Trivedi School for Biosciences](https://www.ashoka.edu.in/trivedi-school-of-biosciences/). My current research focuses on cleaning and analyzing astronomical data from the Sloan Digital Sky Survey (SDSS).
+---
 
-**About Me:**
+**About Me**
 
-Over the past year, I’ve developed a deep interest in cryptography, especially in the realm of privacy-focused technologies. As a research assistant under [Dr. Debayan Gupta](https://debayangupta.com/), I’ve been studying the role of lattices in post-quantum cryptography, with a focus on [Lattice-Based Zero-Knowledge Proofs](https://eprint.iacr.org/2022/284) and the exciting overlaps between [Fully Homomorphic Encryption (FHE) and Multi-Party Computation (MPC)](https://eprint.iacr.org/2023/981). These areas fascinate me because of their potential to enhance privacy and security in digital communication.
+HI! I am Himanshu, a pre-doctoral research assistant at the [Trivedi School of Biosciences](https://www.ashoka.edu.in/trivedi-school-of-biosciences/), working under the guidance of [Dr. Pratyush Pranav](https://www.pratyushpranav.org/). My research focuses on the application of topological data analysis, particularly [persistent homology](https://en.wikipedia.org/wiki/Persistent_homology), in conjunction with machine learning techniques to investigate complex systems across various domains.
 
-My curiosity extends beyond cryptography. I love to tinker with technology, which has led me to projects like reverse engineering car head units, designing RF jamming devices, and conducting security analysis for smart home devices. I've also been involved in projects aimed at enhancing the security of end-to-end encrypted messaging platforms like WhatsApp, aligning with the IT Ministry of India’s guidelines on data protection.
+My academic interests are centered on understanding the underlying structures and dynamics of complex systems, with a particular emphasis on biological systems through algebraic and computational perspectives. This  toolkit of a computational topology with ML allows me to explore diverse fields, including []strophysics](https://academic.oup.com/mnras/article/485/3/4167/5364559), [neural dynamics](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761703/full), and  [mechanistic interpritability](https://www.lesswrong.com/posts/6oF6pRr2FgjTmiHus/topological-data-analysis-and-mechanistic-interpretability).
 
-When I’m not deep into research or tech projects, I enjoy reading manga, watching anime, and keeping up with the latest sneaker releases. I’m also passionate about cognitive sciences, particularly understanding how our brains perceive the world and how environments, especially those with violence, can affect memory.
+Previously, I have contributed to projects aimed at enhancing data privacy and security, such as developing end-to-end encryption protocols for secure communication and implementing privacy frameworks for data protection. I have also worked on tools for Fully Homomorphic Encryption (FHE), with a focus on their application in the healthcare sector.
 
-If you’re interested in similar fields or looking for someone who enjoys diving into deep discussions about tech, cryptography, or cognitive science, feel free to reach out at [himaanshu216@gmail.com](mailto:himaanshu216@gmail.com). I’m always excited to connect with like-minded individuals!
+Beyond my research, I have a keen interest in behavioral sciences, especially in understanding how early-life environments influence memory and decision-making processes. I am also intrigued by the role of social media in shaping public opinion and political discourse.
+
+In my leisure time, I enjoy reading manga, binging sports highlights and TV shows at 1.5x or talking about impending climate doom.
+
+Feel free to reach out to me at [himaanshu216@gmail.com](mailto:himaanshu216@gmail.com) if you are interested in discussing topics related to my research or potential collaborations.
+
+
+
+
+
+
+
+
+
+
+
 
 
