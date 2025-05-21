@@ -11,7 +11,7 @@ description:  # the ">" symbol means to ignore newlines until "footer_text:"
 
 
 footer_text: >
-  # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
  
 
 keywords: # add your own keywords or leave empty
@@ -50,7 +50,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: false
+search_enabled: true
 socials_in_search: true
 
 # Dimensions
@@ -68,7 +68,7 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
-# Social integration
+#Social integration
 # -----------------------------------------------------------------------------
 
 acm_id: # your dl.acm.org/profile/id
@@ -86,7 +86,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: https://www.linkedin.com/in/himanshu-thakur-ab1794325/ # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
