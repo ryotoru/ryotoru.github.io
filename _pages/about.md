@@ -32,7 +32,7 @@ Beyond my research, I have a keen interest in behavioral sciences, especially in
 
 In my leisure time, I enjoy reading manga, binging sports highlights and TV shows at 1.5x or talking about impending climate doom.
 
-Feel free to reach out to me at [himaanshu216@gmail.com](mailto:himaanshu216@gmail.com) if you are interested in discussing topics related to my research or potential collaborations.
+Feel free to reach out to me at [my email](mailto:himaanshu216@gmail.com) if you are interested in discussing topics related to my research or potential collaborations.
 
 
 
